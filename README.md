@@ -12,4 +12,4 @@ origin/main
 Let me know if you'd like help syncing or resetting your local branch to match remote.
 
 this is just for testing
-my name is abubakar
+my name is abubakar latif
